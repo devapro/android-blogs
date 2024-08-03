@@ -6,6 +6,8 @@ Android blogs, youtube channels, telegram groups about development
 
 https://www.composables.com
 
+https://code.cash.app
+
 https://androiddvlpr.com
 
 https://android-developers.googleblog.com
@@ -50,6 +52,12 @@ https://fernandocejas.com
 https://androiduipatterns.com
 
 https://medium.com/hootsuite-engineering
+
+https://medium.com/square-corner-blog
+
+https://medium.com/bumble-tech
+
+https://medium.com/asos-techblog/tagged/apps
 
 #### Authors
 
