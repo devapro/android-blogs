@@ -46,6 +46,12 @@ https://michaelevans.org
 
 https://fernandocejas.com
 
+https://engineering.atspotify.com/category/mobile/
+
+https://shopify.engineering/topics/mobile
+
+https://medium.com/microsoft-mobile-engineering
+
 
 ### Medium
 
