@@ -40,6 +40,10 @@ https://publicobject.com
 
 https://jakewharton.com/blog/
 
+https://michaelevans.org
+
+https://fernandocejas.com
+
 
 ### Medium
 
