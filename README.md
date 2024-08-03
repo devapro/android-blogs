@@ -4,7 +4,7 @@ Blogs about Android development.
 
 Collection of actual blogs related to Android development. The main goal is to have a list of sources for new ideas, sharing experiences, and updates.
 
-* Please create an issue or PR if you have any ideas or want to add more links *
+**Please create an issue or PR if you have any ideas or want to add more links**
 
 ## Blogs
 
