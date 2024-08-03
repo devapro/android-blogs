@@ -10,6 +10,8 @@ https://code.cash.app
 
 https://androiddvlpr.com
 
+https://www.uber.com/en-NZ/blog/engineering/mobile/
+
 https://android-developers.googleblog.com
 
 https://androidshenanigans.blogspot.com
@@ -50,7 +52,7 @@ https://engineering.atspotify.com/category/mobile/
 
 https://shopify.engineering/topics/mobile
 
-https://medium.com/microsoft-mobile-engineering
+https://doordash.engineering/category/mobile/
 
 
 ### Medium
@@ -65,14 +67,26 @@ https://medium.com/bumble-tech
 
 https://medium.com/asos-techblog/tagged/apps
 
+https://medium.com/microsoft-mobile-engineering
+
+https://medium.com/airbnb-engineering/tagged/mobile
+
 #### Authors
 
 https://andremion.medium.com
 
 https://medium.com/@blipinsk
 
+
 ### Dev.to
+
 
 ### Youtube
 
+
 ### Telegram
+
+## How to contribute
+
+- Create an issue and add there your comments or links
+- Create PR
