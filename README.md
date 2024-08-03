@@ -32,6 +32,14 @@ https://blog.danlew.net
 
 https://fragmentedpodcast.com
 
+https://technotalkative.com
+
+https://ryanharter.com
+
+https://publicobject.com
+
+https://jakewharton.com/blog/
+
 
 ### Medium
 
