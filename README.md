@@ -1,14 +1,24 @@
 # Android blogs
 
-Android blogs, youtube channels, telegram groups about development
+Blogs about Android development.
+
+Collection of actual blogs related to Android development. The main goal is to have a list of sources for new ideas, sharing experiences, and updates.
+
+* Please create an issue or PR if you have any ideas or want to add more links *
 
 ## Blogs
+
+https://www.droidcon.com
+
+https://proandroiddev.com
 
 https://www.composables.com
 
 https://code.cash.app
 
 https://androiddvlpr.com
+
+https://androidweekly.net
 
 https://www.uber.com/en-NZ/blog/engineering/mobile/
 
@@ -54,6 +64,8 @@ https://shopify.engineering/topics/mobile
 
 https://doordash.engineering/category/mobile/
 
+https://android-arsenal.com
+
 
 ### Medium
 
@@ -77,14 +89,22 @@ https://andremion.medium.com
 
 https://medium.com/@blipinsk
 
-
-### Dev.to
+https://skydoves.medium.com
 
 
 ### Youtube
 
+https://youtube.com/@AndroidDevelopers
 
-### Telegram
+https://www.youtube.com/@PhilippLackner
+
+https://www.youtube.com/@EasyTuto1
+
+https://www.youtube.com/@himanshugaur684
+
+https://www.youtube.com/@TheAndroidFactory
+
+https://www.youtube.com/@NikolayPanyukov
 
 ## How to contribute
 
